@@ -1,4 +1,5 @@
-<img src="./assets/pixel-night-banner-named.gif" align="middle" alt="Banner" width="100%"/>
+<img src="image.jpg" align="middle" alt="Image" width="100![image](https://github.com/anurag7549/anurag7549/assets/116252233/b93d26e0-f65d-4b3a-bf5a-896d279362c4)
+%"/>
 
 <img src="./assets/borderseparator.gif" width="100%"/>
 
@@ -211,7 +212,8 @@
     <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
   </a>
   &nbsp
-  <a href="https://discord.com/users/385102038087892992" target="_blank">
+  <a href="https://discord.com/users/![image](https://github.com/anurag7549/anurag7549/assets/116252233/e7346497-a8a1-498b-bdbb-dd47df7b34be)
+385102038087892992" target="_blank">
     <img src="./assets/logos/neon-discord.png" width="48px" alt="Discord"/>
   </a>
 </div>
